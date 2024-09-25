@@ -6,9 +6,9 @@ A Discord bot to read the contents of a channel of movie schedules hand written 
 
 Add the following environment variables into a `.env` file
 
-DISCORD_TOKEN=<your bot token>  
-DISCORD_USERNAME=<the username who posts messages>  
-DISCORD_CHANNEL=<the name of the channel with bot access>  
+DISCORD_TOKEN=\<your bot token\>  
+DISCORD_USERNAME=\<the username who posts messages\>  
+DISCORD_CHANNEL=\<the name of the channel with bot access\>  
 
 ## Bot Permissions
 
